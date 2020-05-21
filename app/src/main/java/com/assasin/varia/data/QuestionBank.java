@@ -21,7 +21,7 @@ import static com.assasin.varia.controller.AppController.TAG;
 public class QuestionBank {
 
     ArrayList<Question> questionArrayList = new ArrayList<>();
-    private String url = "https://raw.githubusercontent.com/anadinema99/vario/master/VarioApp.json";
+    private String url = "https://raw.githubusercontent.com/anadinema99/alljsonrepos/master/VariaAppQuestions.json";
 
     public List<Question> getQuestions(final AnswerListAsyncResp callback) {
 
