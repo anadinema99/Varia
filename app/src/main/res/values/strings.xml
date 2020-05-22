@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">Varia</string>
+    <string name="true_text">True</string>
+    <string name="false_text">False</string>
+    <string name="counter_question">1 out of 100</string>
+    <string name="prev_text">Previous question</string>
+    <string name="next_text">Next question</string>
+    <string name="question_def_text">The questions will be appeared here in this box</string>
+    <string name="correct_answer">Correct Answer</string>
+    <string name="wrong_answer">Incorrect answer!!</string>
 </resources>
