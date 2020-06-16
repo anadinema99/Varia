@@ -8,4 +8,5 @@
     <string name="question_def_text">The questions will be appeared here in this box</string>
     <string name="correct_answer">Correct Answer</string>
     <string name="wrong_answer">Incorrect answer!!</string>
+    <string name="score_inital">Score: </string>
 </resources>
