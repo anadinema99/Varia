@@ -7,5 +7,6 @@ public class prefs {
 
     public prefs(SharedPreferences preferences) {
         this.preferences = preferences;
+
     }
 }
